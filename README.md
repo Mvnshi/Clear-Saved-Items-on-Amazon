@@ -8,8 +8,9 @@ To use this script, follow these steps:
 
 1. Open your web browser and navigate to the Amazon website.
 2. Log in to your Amazon account.
-3. Open the browser's developer console by pressing `Ctrl + Shift + J` or `F12` and clicking on the "Console" tab.
-4. Copy and paste the provided script into the console.
+3. Go to the shopping cart section.
+4. Open the browser's developer console by pressing `Ctrl + Shift + J` or `F12` and clicking on the "Console" tab.
+5. Copy and paste the provided script into the console.
 
 ```javascript
 function deleteSavedItems() {
