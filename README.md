@@ -1,6 +1,6 @@
 # Clear-Saved-Items-on-Amazon
 
-Have you ever struggled with deleting all the items from your saved item section in your Amazon cart? If so, this script is here to save the day! The Amazon Cart Item Deletion Automation is a simple JavaScript code snippet that automates the process of removing all items from the saved item section in your Amazon cart.
+Have you ever struggled with deleting all the items from your saved item section in your Amazon cart? If so, this script is here to save the day! This file is a simple JavaScript code snippet that automates the process of removing all items from the saved item section in your Amazon cart.
 
 ## Usage
 
