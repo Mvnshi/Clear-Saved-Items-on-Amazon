@@ -24,7 +24,7 @@ function deleteSavedItems() {
         console.log('Finished :)');
     }
 }
-deleteSavedItems();
+deleteSavedItems();```
 
 6. Press the Enter key to execute the script.
 7. Sit back and let the script do its work. It will automatically delete all the saved items from your Amazon cart.
